@@ -3,12 +3,11 @@
 
 After gaining experience as a QA Specialist, I discovered a passion for software engineering, driven by the thrill of developing features and solving complex problems. This led me to pursue a software engineering bootcamp, where I now focus on leveraging my QA background to build innovative solutions.
 
-At Talkdesk, I worked with the Strategic Integration team to ensure the quality of CRM platform integrations, leading meetings and retrospectives to enhance productivity. My strengths in analytical thinking, communication, teamwork, and leadership have been key to my success.
+At Talkdesk, I worked with the Strategic Integration team to ensure the quality of CRM platform integrations, leading meetings and retrospectives to enhance productivity. I have honed my strengths in analytical thinking, communication, teamwork, and leadership throughout my career as a competitive athlete, coach, analyst, and now engineer. These strengths have been the keys to my success.
 
 Originally a sports coach with a Master's in Sports Coaching, I realized that I could make a greater impact by creating technology that helps athletes achieve their goals. This realization inspired my transition into tech through a QA bootcamp, blending my coaching experience with my technical skills.
 
-Today, I am dedicated to using my diverse background in coaching and tech to create solutions that drive performance and success in both fields
-
+Today, I am dedicated to using my diverse background in coaching and tech to create solutions that drive performance and success in both fields.
 
 <!--
 After my experience as a QA Specialist, I discovered a new passion for software engineering. The thrill of developing new features, solving complex problems, and being creative in my work led me to start a software engineering bootcamp. I am now focused on pursuing a career where I can leverage my QA background and technical expertise to build innovative solutions.
