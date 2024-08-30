@@ -1,5 +1,7 @@
 # Pedro Quaresma
-## About Me
+![Screenshot 2024-08-23 at 17 49 14](https://github.com/user-attachments/assets/4021bfb2-8afb-4819-8185-7d6a8cff599d)
+
+## 👋 Hello there!
 
 After gaining experience as a QA Specialist, I discovered a passion for software engineering, driven by the thrill of developing features and solving complex problems. This led me to pursue a software engineering bootcamp, where I now focus on leveraging my QA background to build innovative solutions.
 
@@ -22,6 +24,13 @@ Today, I am dedicated to using my diverse background in competitive sports and t
 ## Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,figma,gcp,github,mongodb,nodejs,postman)](https://skillicons.dev) 
+
+## 🎉 Fun Facts
+
+- 🐱 Proud cat dad with two adorable cats.
+- 🚀 Geek who loves anything related to dragons or Star Wars (and embracing the evolving inclusivity of the fandom thanks to recent initiatives).
+- ⚽️ Soccer (not footbal) enthusiast, though I consider myself pretty average at sports—but I learn quickly!
+- 🇺🇸 First-generation European citizen in the US, hailing from the land of sun, cod, and grilled meat.
 
 <!--
 **PQuaresma-94/PQuaresma-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
