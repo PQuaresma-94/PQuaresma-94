@@ -29,7 +29,7 @@ Today, I am dedicated to using my diverse background in competitive sports and t
 
 - 🐱 Proud cat dad with two adorable cats.
 - 🚀 Geek who loves anything related to dragons or Star Wars (and embracing the evolving inclusivity of the fandom thanks to recent initiatives).
-- ⚽️ Soccer (not footbal) enthusiast, though I consider myself pretty average at sports—but I learn quickly!
+- ⚽️ Sports enthusiast, though I consider myself pretty average at sports—but I learn quickly!
 - 🇺🇸 First-generation European citizen in the US, hailing from the land of sun, cod, and grilled meat.
 
 <!--
