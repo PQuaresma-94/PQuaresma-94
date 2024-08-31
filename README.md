@@ -31,7 +31,8 @@ Today, I am dedicated to using my diverse background in competitive sports and t
 - 🚀 Geek who loves anything related to dragons or Star Wars (and embracing the evolving inclusivity of the fandom thanks to recent initiatives).
 - ⚽️ Sports enthusiast, though I consider myself pretty average at sports—but I learn quickly!
 - 🇺🇸 First-generation European citizen in the US, hailing from the land of sun, cod, and grilled meat.
-
+- 🦋 You won't catch me killing any insects—I always catch them with a cup or container and gently put them outside.
+  
 <!--
 **PQuaresma-94/PQuaresma-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
