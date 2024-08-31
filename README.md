@@ -1,5 +1,5 @@
 # Pedro Quaresma
-![Screenshot 2024-08-23 at 17 49 14](https://github.com/user-attachments/assets/4021bfb2-8afb-4819-8185-7d6a8cff599d)
+![cover-1-unedited copy](https://github.com/user-attachments/assets/38085249-7793-43d3-9f4a-8a85d392a2d0)
 
 ## 👋 Hello there!
 
