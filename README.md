@@ -21,7 +21,7 @@ Originally a competitive swimmer turned sports coach with a Master’s in Scienc
 Today, I am dedicated to using my diverse background in competitive sports and tech to create solutions that drive performance and success in both fields.
 -->
 
-## Skills and Experience
+## 💻 Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,figma,gcp,github,mongodb,nodejs,postman)](https://skillicons.dev) 
 
