@@ -16,6 +16,14 @@ Previously, as a **sports coach** with a Master’s degree in Science, with mino
 
 I’m eager to leverage my diverse background to contribute to innovative tech solutions that enhance performance and drive success. By integrating my expertise in QA and software engineering with the leadership skills from coaching, I aim to deliver high-quality software that exceeds user expectations.
 
+## 🔮 Upcoming Projects
+
+- **Workout Planner App (React Native)**: A customizable workout app for creating routines, tracking progress, and receiving personalized recommendations to help users stay on top of their fitness goals.
+
+- **Meals & Shopping List Planner Website**: A web tool with predetermined meal plans and a smart shopping list generator, designed to simplify daily meal planning and grocery shopping.
+
+Stay tuned for updates! 🎉
+
 ## 💻 Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,postman,figma,gcp)](https://skillicons.dev)
