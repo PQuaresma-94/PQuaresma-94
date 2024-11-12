@@ -18,7 +18,7 @@ I’m eager to leverage my diverse background to contribute to innovative tech s
 
 ## 🔮 Upcoming Projects
 
-- **Workout Planner App (React Native)**: A customizable workout app for creating routines, tracking progress, and receiving personalized recommendations to help users stay on top of their fitness goals. (In Development phase)
+- **Workout Planner App (React Native)**: A customizable workout app for creating routines, tracking progress, and receiving personalized recommendations to help users stay on top of their fitness goals. (In Development)
 
 - **Meals & Shopping List Planner Website**: A web tool with predetermined meal plans and a smart shopping list generator, designed to simplify daily meal planning and grocery shopping.
 
