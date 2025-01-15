@@ -75,10 +75,6 @@ A full-stack application to help players optimize rosters in "Star Wars Galaxy o
 
 A weather-based clothing recommendation app with personalized UI and social sharing features.
 
-## 📊 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PQuaresma-94&show_icons=true&theme=default)
-
 ## 📫 Get in Touch
 
 - **Email**: [pedromquaresma@gmail.com](mailto:pedromquaresma@gmail.com)
